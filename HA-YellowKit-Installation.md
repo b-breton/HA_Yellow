@@ -10,6 +10,9 @@
 - 1 module Raspberry CM5
 - Ordinateur (Windows, macOS ou Linux)
 - Connexion Internet
+- 1 Cable Ethernet
+- 1 Bloc Alim (12 V / 2 A) 
+- 1 Cable USB-C 
 
 ---
 

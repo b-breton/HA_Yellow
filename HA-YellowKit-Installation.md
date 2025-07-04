@@ -2,6 +2,7 @@
 
 ![HA Yellow Kit](https://support.nabucasa.com/hc/en-us/categories/24734575925149)
 ![HA Yellow Kit CM5](https://www.home-assistant.io/images/blog/2024-11-cm5/art.jpg)
+![HA Yellow Kit + NVMe](https://support.nabucasa.com/hc/en-us/articles/25298668266269-Home-Assistant-Yellow-Kit-with-CM4-and-optional-NVMe)
 
 ---
 

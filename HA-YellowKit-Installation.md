@@ -1,10 +1,23 @@
 # Installation de Home Assistant Yellow Kit with CM5
 
- 
-
 ![HA Yellow Kit](https://www.home-assistant.io/images/blog/2024-11-cm5/art.jpg)
 
+---
 
+## 1. Matériel nécessaire
+
+- 1 Kit HA Yellow
+- 1 module Raspberry CM5
+- Ordinateur (Windows, macOS ou Linux)
+- Connexion Internet
+
+---
+
+## 2. Ressources utiles
+
+- [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5)
+
+---
 
 # Premiers pas avec la carte ESP32-C6 DevKitC-1 V1
 
@@ -98,12 +111,4 @@ Remplacez `<PORT>` par le port série détecté.
 idf.py -p <PORT> monitor
 ```
 
----
 
-## 5. Ressources utiles
-
-- [Documentation ESP32-C6](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/index.html)
-- [Forum Espressif](https://www.esp32.com/)
-- [Exemples officiels](https://github.com/espressif/esp-idf/tree/master/examples)
-
----

@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Matériel nécessaire
+## Matériel nécessaire
 
 - 1 Kit HA Yellow
 - 1 module Raspberry CM5
@@ -16,7 +16,7 @@
 
 ---
 
-## 2. Ressources utiles
+## Ressources utiles
 
 - [HA Yellow Kit](https://support.nabucasa.com/hc/en-us/categories/24734575925149)
 - [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5)
@@ -24,11 +24,20 @@
 
 ---
 
-# Premiers pas avec la carte ESP32-C6 DevKitC-1 V1
+# Installation de Home Assistant Yellow Kit avec CM5 et NVMe
 
-Ce guide vous accompagnera dans la prise en main de la carte ESP32-C6 DevKitC-1 V1.  
-Il couvre l’installation des outils, la connexion de la carte et le téléchargement d’un premier programme.
-
+## 1. Installer le CM5:
+[Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
+pour le montage du CM5 
+## 2. Installer le NVMe:
+[HA Yellow Kit + NVMe](https://support.nabucasa.com/hc/en-us/articles/25298668266269-Home-Assistant-Yellow-Kit-with-CM4-and-optional-NVMe) 
+pour le montage du NVMe
+## 3. Installer le *rpiboot*:
+[Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
+pour l'installation du **rpiboot**
+## 4. Installer le Home Assistant OS à l'aide du Raspberry Pi Imager:
+[Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
+pour l'installation du **Home Assistant OS**
 ---
 
 ## 1. Matériel nécessaire

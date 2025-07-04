@@ -38,6 +38,7 @@ pour l'installation du **rpiboot**
 ## 4. Installer le Home Assistant OS à l'aide du Raspberry Pi Imager:
 [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
 pour l'installation du **Home Assistant OS**
+
 ---
 
 ## 1. Matériel nécessaire

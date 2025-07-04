@@ -1,6 +1,7 @@
 # Installation de Home Assistant Yellow Kit with CM5
 
-![HA Yellow Kit](https://www.home-assistant.io/images/blog/2024-11-cm5/art.jpg)
+![HA Yellow Kit](https://support.nabucasa.com/hc/en-us/categories/24734575925149)
+![HA Yellow Kit CM5](https://www.home-assistant.io/images/blog/2024-11-cm5/art.jpg)
 
 ---
 

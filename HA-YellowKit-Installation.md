@@ -21,6 +21,7 @@
 - [HA Yellow Kit](https://support.nabucasa.com/hc/en-us/categories/24734575925149)
 - [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5)
 - [HA Yellow Kit + NVMe](https://support.nabucasa.com/hc/en-us/articles/25298668266269-Home-Assistant-Yellow-Kit-with-CM4-and-optional-NVMe)
+- [Zigbee2MQTT Avantages](https://www.hacf.fr/zigbee2mqtt-config/#choisir-zigbee2mqtt-ou-zha)
 
 ---
 

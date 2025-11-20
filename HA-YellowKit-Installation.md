@@ -52,6 +52,7 @@ pour l'installation du **Home Assistant OS**
   <br/>Login : bb_mqtt
   <br/> [MQTT setup on YellowBox](https://community.home-assistant.io/t/zigbee-mqtt-setup-on-ha-yellow-box/844744/7)
   port : */dev/ttyAMA1*
+  <br/> sous *Paramètre/Système/matériel* cliquer sur configurer pour choisir Zigbee2MQTT
 ## 6. Migrer le stockage du CM5 vers le NVMe:
 [Migration CM5 --> NVMe](https://youtu.be/PhLct_NT4Ok) 
 pour que le stockage soit réalisé sur le NVMe

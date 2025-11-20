@@ -29,7 +29,7 @@
 ## 1. Installer le CM5:
 [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
 pour le montage du CM5 
-> [!Attention]
+> [!CAUTION]
 >Le NVMe a été monté en même temps (installation sur la mémoire interne du CM5)
 
 ## 2. Installer le NVMe:

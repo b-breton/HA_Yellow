@@ -47,6 +47,7 @@ pour l'installation du **Home Assistant OS**
 - Configuration Utilisateur (login, MDP)
 - Installation du module d'intégration [HACS](https://www.domo-blog.fr/comment-installer-hacs-2-sur-home-assistant-simplement-en-2024/)
 - Installation de [ZigBee2MQTT](https://www.domo-blog.fr/installer-mqtt-zigbee2mqtt-home-assistant-en-mode-supervision-guide-domotique-all-inclusive/)
+  <br/>Login : bb_mqtt
 ## 6. Migrer le stockage du CM5 vers le NVMe:
 [Migration CM5 --> NVMe](https://youtu.be/PhLct_NT4Ok) 
 pour que le stockage soit réalisé sur le NVMe

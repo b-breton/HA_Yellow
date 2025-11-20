@@ -41,7 +41,13 @@ pour l'installation du **rpiboot**
 ## 4. Installer le Home Assistant OS à l'aide du Raspberry Pi Imager:
 [Installation Yellow Kit + CM5](https://support.nabucasa.com/hc/en-us/articles/25606333033501-Home-Assistant-Yellow-Kit-with-CM5) 
 pour l'installation du **Home Assistant OS**
-## 5. Migrer le stockage du CM5 vers le NVMe:
+## 5. Premiers pas avec Home Assistant:
+[HA pour les Nuls](https://www.domo-blog.fr/home-assistant-pour-les-nuls-guide-demarrage-complet-pour-bien-commencer/) 
+ pour les premiers pas avec **Home Assistant**:
+- Configuration Utilisateur (login, MDP)
+- Installation du module d'intégration HACS
+- Installation de ZigBee2MQTT
+## 6. Migrer le stockage du CM5 vers le NVMe:
 [Migration CM5 --> NVMe](https://youtu.be/PhLct_NT4Ok) 
 pour que le stockage soit réalisé sur le NVMe
 

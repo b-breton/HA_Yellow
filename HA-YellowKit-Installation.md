@@ -54,7 +54,6 @@ pour l'installation du **Home Assistant OS**
   <br/> [MQTT setup on YellowBox](https://community.home-assistant.io/t/zigbee-mqtt-setup-on-ha-yellow-box/844744/7)
   port : */dev/ttyAMA1*, Coordinator/Adapter : *ember*
   <br/> sous *Paramètre/Système/matériel* cliquer sur configurer pour choisir Zigbee2MQTT
-  <br> Configurer le ZigBee sous *Paramètre/Appareils et Services/* cliquer sur le bouton ajouter de *Yellow ZigBee Home Automation* pour configurer le ZigBee
   <br/> Flasher la dernière version du Firmware ZigBee pour HA Yellow : https://github.com/NabuCasa/silabs-firmware/wiki/Flash-Silicon-Labs-radio-firmware-manually
   <br/>[Procédure](https://forum.hacf.fr/t/ha-yellow-passage-a-ember/46457)
 ## 6. Migrer le stockage du CM5 vers le NVMe:

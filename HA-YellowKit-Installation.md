@@ -56,6 +56,7 @@ pour l'installation du **Home Assistant OS**
   <br/> sous *Paramètre/Système/matériel* cliquer sur configurer pour choisir Zigbee2MQTT
   <br/> Flasher la dernière version du Firmware ZigBee pour HA Yellow : https://github.com/NabuCasa/silabs-firmware/wiki/Flash-Silicon-Labs-radio-firmware-manually
   <br/>[Procédure](https://forum.hacf.fr/t/ha-yellow-passage-a-ember/46457)
+  <br/> Infos Puce ZigBee HA Yellow : [emberznet](https://www.zigbee2mqtt.io/guide/adapters/emberznet.html)
 ## 6. Migrer le stockage du CM5 vers le NVMe:
 [Migration CM5 --> NVMe](https://youtu.be/PhLct_NT4Ok) 
 pour que le stockage soit réalisé sur le NVMe

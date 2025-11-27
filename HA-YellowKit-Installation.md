@@ -49,12 +49,23 @@ pour l'installation du **Home Assistant OS**
 - Configuration Utilisateur (login, MDP)
 - Installation du module d'intégration [HACS](https://www.domo-blog.fr/comment-installer-hacs-2-sur-home-assistant-simplement-en-2024/)
 - Installation de [ZigBee2MQTT](https://www.domo-blog.fr/installer-mqtt-zigbee2mqtt-home-assistant-en-mode-supervision-guide-domotique-all-inclusive/)
-  <br/>Login : bb_mqtt
+  <br/>Login : mqtt_adm
   <br/>base_topic:*zigbee2mqtt*
   <br/> [MQTT setup on YellowBox](https://community.home-assistant.io/t/zigbee-mqtt-setup-on-ha-yellow-box/844744/7)
   port : */dev/ttyAMA1*, Coordinator/Adapter : *ember*
   <br/> sous *Paramètre/Système/matériel* cliquer sur configurer pour choisir Zigbee2MQTT
-  <br/> Flasher la dernière version du Firmware ZigBee pour HA Yellow : https://github.com/NabuCasa/silabs-firmware/wiki/Flash-Silicon-Labs-radio-firmware-manually
+  <br/> Dans les fichiers de config de Mosquitto et Zigbee2MQTT supprimer les lignes relatives aux certificats:
+  ```
+  mqtt:
+  server: mqtt://core-mosquitto
+  ca: /etc/ssl/mqtt-ca.crt
+  key: /etc/ssl/mqtt-client.key
+  cert: /etc/ssl/mqtt-client.crt
+    ```
+  <br/> vérifier que les modifications on bien été appliquées en éditant le fichier */config/zigbee2mqtt/configuration.yaml*
+  <br/> Créer le répertoire mosquitto */share/mosquitto*
+  <br/> Si besoin regarder les actions suivante:
+  <br/>Flasher la dernière version du Firmware ZigBee pour HA Yellow : https://github.com/NabuCasa/silabs-firmware/wiki/Flash-Silicon-Labs-radio-firmware-manually
   <br/>[Procédure](https://forum.hacf.fr/t/ha-yellow-passage-a-ember/46457)
   <br/> Infos Puce ZigBee HA Yellow : [emberznet](https://www.zigbee2mqtt.io/guide/adapters/emberznet.html)
 ## 6. Migrer le stockage du CM5 vers le NVMe:
